@@ -124,6 +124,22 @@ window.siteContent = {
   publications: [
     {
       year: 2026,
+      title: "Geospatial Assessment of Soil–Biosphere Nexus Using a Biophysical Soil Security Matrix: Evidence from Minnesota, USA",
+      authors: "Mikhailova, E. A., Zurqani, H. A., Lin, L., Hao, Z., Post, C. J., Schlautman, M. A., Carbajales-Dale, P., Post, G. C., & Shepherd, G. B ",
+      venue: "Biosphere, 2(3), 10",
+      link: "https://doi.org/10.3390/biosphere2030010",
+      tags: ["climate", "land degradation", "Sustainable Development Goals"]
+    },
+    {
+      year: 2026,
+      title: "Extending HPC GPUs to Windows-Based GIS Users via Juice: A Model for Broadening Access to Campus Supercomputing",
+      authors: "Herrman, C., Post, G., Carbajales-Dale, P., Burton, J. D., Groel, S., Prak, S., & Statkiewicz, R. ",
+      venue: "Proceedings of the Practice and Experience in Advanced Research Computing 2026: Resilient Roots+ Empowered Communities (pp. 1-5)",
+      link: "https://doi.org/10.1145/3785462.3815853",
+      tags: ["HPC", "GIS", "Distributed Computing"]
+    },
+    {
+      year: 2026,
       title: "COVID-19-Related Discrimination and Mental Distress: Mediating Role of Loneliness, Resilience, and Financial Worries",
       authors: "Luo, Y., Li, M., Haller, W., Wang, Y.-B., Carbajales-Dale, P., Jones, S., & Pan, X.",
       venue: "Social Sciences, 15(6), 370",
